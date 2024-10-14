@@ -1,0 +1,7 @@
+{
+  "name": "f45",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
